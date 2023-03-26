@@ -9,7 +9,7 @@
 
 关注公众号：龙台的技术笔记，公众号内回复图片编号即可。
 
-👉 [工作经验不满五年程序员，如何通过项目提高个人技术能力？](https://www.yuque.com/magestack/public/knowledge-planet)
+👉 [工作经验不满五年程序员，如何通过项目提高个人技术能力？](https://magestack.cn)
 
 ## 架构图
 
